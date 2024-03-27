@@ -35,7 +35,7 @@ git clone https://github.com/jorhelp/Ingram.git
 
 + 进入项目目录，创建一个虚拟环境，并激活该环境：
 ```bash
-cd Ingram
+cd ROYIP
 pip3 install virtualenv
 python3 -m virtualenv venv
 source venv/bin/activate
